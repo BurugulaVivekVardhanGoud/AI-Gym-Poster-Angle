@@ -26,11 +26,13 @@ import matplotlib.pyplot as plt
 
 # draw landmarks & connections to screen
 mp_drawing = mp.solutions.drawing_utils
+
 # import Pose model
 mp_pose = mp.solutions.pose
 
 #Acknowledgements
-The pose estimation model is provided by Mediapipe.
-OpenCV for image processing capabilities.
-Numpy for efficient numerical operations.
-Matplotlib for visualizing the detected angles.
+
+The pose estimation model is provided by Mediapipe.//
+OpenCV for image processing capabilities.//
+Numpy for efficient numerical operations.//
+Matplotlib for visualizing the detected angles.//

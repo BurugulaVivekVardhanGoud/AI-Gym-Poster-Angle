@@ -1,6 +1,6 @@
 ## AI-Gym-Poster-Angle
 
-#Description
+# Description
 
 This repository contains code for detecting and visualizing the angles of movements like curls, sit-ups, squats, etc. using computer vision techniques. The code utilizes the following libraries:
 mediapipe for pose estimation

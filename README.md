@@ -17,22 +17,27 @@ Run the script to detect and visualize movement angles.
 Ensure your camera is properly set up to capture the movements.
 The script will display the detected angles on the screen.
 
-#Libraries Used
-python
+# Libraries Used
 import mediapipe as mp
+
 import cv2
+
 import numpy as np
+
 import matplotlib.pyplot as plt
 
-# draw landmarks & connections to screen
+# Draw landmarks & connections to screen
 mp_drawing = mp.solutions.drawing_utils
 
-# import Pose model
+# Import Pose model
 mp_pose = mp.solutions.pose
 
-#Acknowledgements
+# Acknowledgements
 
-The pose estimation model is provided by Mediapipe.//
-OpenCV for image processing capabilities.//
-Numpy for efficient numerical operations.//
-Matplotlib for visualizing the detected angles.//
+The pose estimation model is provided by Mediapipe.
+
+OpenCV for image processing capabilities.
+
+Numpy for efficient numerical operations.
+
+Matplotlib for visualizing the detected angles.

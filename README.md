@@ -12,7 +12,7 @@ Install the required libraries:
 bash
 pip install mediapipe opencv-python numpy matplotlib
 
-#Usage
+# Usage
 Run the script to detect and visualize movement angles.
 Ensure your camera is properly set up to capture the movements.
 The script will display the detected angles on the screen.
